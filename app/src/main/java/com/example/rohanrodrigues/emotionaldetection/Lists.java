@@ -14,7 +14,7 @@ public class Lists {
                 "transparent ", "wet" };
         String[] obj = { "house ", "dog ", "cat ", "stick ", "friend ", "balloon ", "foot ", "ball ", "phone ",
                 "umbilical cord " };
-        String[] negv = { "Burned.", "died.", "left.", "is now deceased.", "was cremated.", "was shot.",
+        String[] negv = { "got burnt.", "died.", "left.", "is now deceased.", "was cremated.", "was shot.",
                 "was attacked by a gorilla.", "was killed by a duck.", "was eaten by an elephant.", "got boiled" };
         String[] neutv = { "is fine.", "isn't dead.", "ate lunch.", "has a neutral mood.", "likes to watch movies.",
                 "owns 2 pairs of shoes.", "is not a refrigerator.", "is probably not a murderer.",
