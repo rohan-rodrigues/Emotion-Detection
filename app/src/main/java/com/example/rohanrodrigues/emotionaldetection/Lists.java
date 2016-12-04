@@ -11,7 +11,7 @@ public class Lists {
         String[] poss = { "Your ", "Your mom's ", "Your dad's ", "Your friend's ", "Your sister's ", "Your brother's ",
                 "Your dog's ", "Your Cat's ", "Your Goldfish's ", "Your lover's " };
         String[] adj = { "cool ", "hot ", "smelly ", "small ", "huge ", "dirty ", "dry ", "bright pink ",
-                "transparent ", "wet" };
+                "transparent ", "wet " };
         String[] obj = { "house ", "dog ", "cat ", "stick ", "friend ", "balloon ", "foot ", "ball ", "phone ",
                 "umbilical cord " };
         String[] negv = { "got burnt.", "died.", "left.", "is now deceased.", "was cremated.", "was shot.",
