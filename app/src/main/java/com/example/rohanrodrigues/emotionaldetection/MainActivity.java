@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 }
             });
             AlchemyLanguage service = new AlchemyLanguage();
-            service.setApiKey("bfe00c0b4cf9cb9de72bd374c565fa38de748568");
+            service.setApiKey("6c1ae993939a40c38f26dc0fc1df707ff753fabb");
 
             Map<String, Object> params = new HashMap<String, Object>();
             params.put(AlchemyLanguage.TEXT, input_text.getText());
