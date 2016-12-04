@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Emotion Detection</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="main_text">This is not a nice car</string>
+    <string name="editText_description">Enter the text message</string>
+    <string name="button_text">Analyze</string>
+    <string name="top_text">The sentiment is : </string>
+    <string name="activity_description">Press the analyze button to identify the sentiment of the text message</string>
+    <string name="activity_title">Text Message Sentiment Analysis</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

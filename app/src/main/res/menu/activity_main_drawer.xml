@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_instructions"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Instructions"/>
+        <item
+            android:id="@+id/nav_textCheck"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Text Check"/>
+        <item
+            android:id="@+id/nav_emailCheck"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Email Check"/>
+        <item
+            android:id="@+id/nav_interactiveCheck"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Interactive Check"/>
+    </group>
+
+    <item android:title="Voice Capablities">
+        <menu>
+            <item
+                android:id="@+id/nav_voiceInput"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Voice Input"/>
+            <item
+                android:id="@+id/nav_voiceOutput"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Voice Output"/>
+        </menu>
+    </item>
+
+</menu>
